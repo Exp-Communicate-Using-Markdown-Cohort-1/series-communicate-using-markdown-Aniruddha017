@@ -8,3 +8,8 @@ Hello World I've just begun to learn Github, it might take a while.
 
 
 ![Description: Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
